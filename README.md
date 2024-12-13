@@ -2,7 +2,7 @@
 I have Created a Dashboard by analyzing the sales data of Vrinda store and provided a greater insight for better visualization.
 
 ## Project Objective
-Vrinda Store wants to create an annual sales report for 2022, so that Vrinda can understand their customers and grow more sales in 2023.
+Vrinda Store wants to create an annual sales report for 2020, so that Vrinda can understand their customers and grow more sales in 2021.
 
 ## Data Used
 <a href="https://github.com/Linu-1234/Vrinda-Store-Sales-Analysis-and-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Data Set</a>
