@@ -2,7 +2,7 @@
 I have Created a Dashboard by analyzing the sales data of Vrinda store and provided a greater insight for better visualization.
 
 ## Project Objective
-Vrinda Store wants to create an annual sales report for 2020, so that Vrinda can understand their customers and grow more sales in 2021.
+Vrinda Store wants to create an annual sales report for 2022, so that Vrinda can understand their customers and grow more sales in 2023.
 
 ## Data Used
 <a href="https://github.com/Linu-1234/Vrinda-Store-Sales-Analysis-and-Dashboard/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">Data Set</a>
@@ -15,7 +15,8 @@ Vrinda Store wants to create an annual sales report for 2020, so that Vrinda can
 5. Insights - Insights are derived from the analysis and visualization as given below.
 
 ## Dashboard Interaction
-![Vrinda Dashboard](https://github.com/user-attachments/assets/d62825be-ab59-4f20-b790-8a91c500c3c5)
+![Vrinda Dashboard](https://github.com/user-attachments/assets/347c7516-8ff2-46af-a450-8ce31bca5312)
+
 
 ## Insights
 1. Women are more likely to buy compared to men(~65%)
